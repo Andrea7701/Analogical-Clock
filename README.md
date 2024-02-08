@@ -8,7 +8,7 @@
 
 # Live Deployment
 
-https://andrea7701.github.io/AnalogicalClock/
+https://andrea7701.github.io/Analogical-Clock/
 
 # Built With
  - Typescript;
